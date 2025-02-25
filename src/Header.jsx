@@ -33,7 +33,7 @@ const Header = ({ onSearch, onReset }) => {
                     Accueil
                 </a>
                 <a href="#" className="text-amber-100 hover:text-gray-900 hover:bg-amber-100 p-3 rounded-full ">
-                    Inscription
+                    Favorie
                 </a>
             </div>
 
